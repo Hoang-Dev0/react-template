@@ -1,7 +1,7 @@
 import { Route, Routes } from 'react-router-dom'
-import './App.scss'
 import { DefaultLayout } from './layouts/DefaultLayout'
 import Home from '~/pages/home'
+import './styles/index.scss'
 
 const App = () => {
   return (
